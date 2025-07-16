@@ -57,10 +57,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiragry/Chiragry/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiragry/Chiragry/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chiragry/Chiragry/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center" display="flex">
+  <img height="200" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-15.gif"  />
+  <img height="200" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-15.gif"  />
+</div>
 
 ###
